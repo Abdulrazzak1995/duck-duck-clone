@@ -2,8 +2,7 @@
 
 
 ## Project title
-Code-Along : this project is to study the app-theme tutorial from Traversy Media ,and exercise to starte using flixboxgrid.css
-and try to study branching .
+Duck-Duck-clone :This week's project is to build your own accessible & responsive clone of the DuckDuckGo home page . 
 
 ## Table of contents
 + [General infos](#General-infos )
@@ -16,12 +15,12 @@ and try to study branching .
 
 
 ## General infos 
-This project aims to learn more about branching and be more comfortable , get familier with FlixBoxGrid .
+This project aims to learn more about branching and be more comfortable , get familier with FlixBoxGrid ,also explore HTML& CSS .
  
 ## Screenshot
 This is a screen shot
 
-![Screenshot](file:///Users/abd/Desktop/Capture%20d%E2%80%99e%CC%81cran%202020-01-25%20a%CC%80%2023.17.50.png)
+![Screenshot](file:///Users/abd/Documents/Capture%20d%E2%80%99e%CC%81cran%202020-02-01%20at%2013.45.33.png)
 ## Technologies 
 + HTML5 /CSS , FlexboxGrid
 
@@ -32,7 +31,7 @@ This project was divided into many steps !
 Project is finished without doing some steps. 
 
 ## Inspiration
- Build a responsive HTML & CSS template with FlexboxGrid ,  through a tutorial on youtube "Traversy Media".
+ pagehome of (https://duckduckgo.com/).
 
 ## Contact
 Abdulrazzak Abdi  [Github](https://github.com/Abdulrazzak1995)
