@@ -1,0 +1,251 @@
+body{
+margin: 0;
+padding: 0px;
+}
+.main{
+background-color:gainsboro;
+}
+.icons .container{
+background-color:gainsboro;
+margin: 0;
+display: flex;
+text-align: center;
+}
+.icons .container .list-icons li{
+color: white;
+display: flex;
+float: right;
+}
+li{
+list-style-type: none;
+}
+.fab,
+.fas{
+font-size: 30px;
+color: black;
+}
+.fa-bars{
+padding-left: 40px;
+}
+.fa-caret-down{
+padding-left: 10px;
+}
+.list-icons{
+float: right;
+display: flex;
+margin-left:88%;
+}
+.header{
+align-items: center;
+text-align: center;
+}
+.header .container{
+background-color:#F5F5F5;
+text-align: center;
+align-items: center;
+margin:0;
+}
+.container .logo{
+padding-bottom: 0;
+}
+.logo{
+right:100px;
+margin-left: 99%;
+}
+.search-wrap{
+background-color: gainsboro;
+height: 40px;
+width: 100%;
+border-radius: 5px;
+margin-left: 100%;
+margin-bottom: 15px;
+padding: 10px;
+}
+.search-wrap .search{
+background-color:gainsboro;
+height: 33px;
+color: white;
+font-size: 20px;
+border: none;
+width: 50%;
+padding-left: 20%;
+}
+.search-wrap .fa-search{
+color: white;
+background-color:gainsboro;
+padding: 0;
+margin: 0;
+cursor: pointer;
+}
+.content .container {
+background-color:#F5F5F5;
+display: flex;
+margin-left:0;
+padding-left: 10%;
+padding-top:2%;
+height: 85vh;
+}
+.info .fa-star,
+.info .fa-star-half-alt{
+color:red;
+font-size: 10px;
+}
+.content .content-info{
+color:black;
+font-family: "Times New Roman", Times, serif;
+font-weight: lighter;
+}
+.content .content-image{
+position: absolute;
+top: 115%;
+left: 25%;
+}
+.content-image img{
+width: 100%;
+}
+.content button{
+background-color:#1E90FF ;
+border: none;
+color: white;
+height: 50px;
+width: auto;
+font-size: 15px;
+cursor: pointer;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+border-radius: 8px;
+}
+.head .container{
+background-color:#1A1616;
+margin-top: 0;
+}
+.head .fonctionne{
+text-align: center;
+background-color:#F5F5F5;
+color:black;
+margin-top: 0px;
+}
+.fonctionne h1,
+.head h1{
+margin: 0;
+}
+.container .boxes{
+display: flex;
+background-color:#3CB371;
+background-image: linear-gradient(#F5F5F5,#F5F5F5, #F5F5F5);
+padding-top: 20px;
+}
+.boxes .bx{
+background-color:gainsboro;
+color:black;
+margin-left: 8%;
+text-align: center;
+align-items: center;
+width: 17vw;
+border-radius: 20px;
+padding: 50px 40px 50px 40px;
+}
+.head .content{
+background-color: #3CB371;
+text-align: center;
+color: white;
+padding-top: 50px;
+font-size: 25px;
+padding-bottom: 20px;
+}
+.head button{
+background-color: rgba(255, 0, 0, 0.2);
+width: 25vw;
+}
+.body .container{
+text-align: center;
+align-items: center;
+}
+.body .image{
+background-color: #3CB371;
+padding-bottom: 0;
+}
+.body .image img{
+padding-bottom: 0;
+padding-top: 60px;
+}
+.body .content{
+background-color: #ffa64d;
+color: white;
+padding-top: 25px;
+padding-bottom: 10px;
+}
+.body .content h1
+.fantôme .content h1
+.bath .content h1{
+margin-top: 0;
+font-size: 50px;
+}
+.body p,
+.fantôme p,
+.bath p{
+font-size: 25px;
+}
+.body button{
+background-color: rgba(0, 0, 0, 0.7);
+width: 25vw;
+}
+.fantôme .container{
+text-align: center;
+align-items: center;
+}
+.fantôme .image{
+background-color: #ffa64d;
+padding-bottom: 0;
+padding-top: 100px;
+}
+.fantôme .content{
+background-color: #7B68EE;
+color: white;
+padding-top: 25px;
+padding-bottom: 10px;
+}
+.fantôme button{
+background-color: rgba(0, 0, 0, 0.7);
+width: 25vw;
+}
+.baignoire .container{
+text-align: center;
+align-items: center;
+}
+.baignoire .image{
+background-color: #7B68EE;
+padding-bottom: 0;
+padding-top: 150px;
+}
+.baignoire .list ul{
+display: flex;
+float: right;
+list-style-type: none;
+}
+.baignoire a,
+.baignoire li{
+text-decoration: none;
+margin-right: 10px;
+color: rgba(0, 0, 0, 0.7);
+}
+.baignoire .content{
+background-color: #80bfff;
+color: rgba(0, 0, 0, 0.7);
+padding-bottom: 20px;
+padding-top: 30px;
+}
+.baignoire button{
+background-color: rgba(0, 0, 0, 0.7);
+width: 25vw;
+}
+.footer{
+background-color: #80bfff;
+}
+.footer .container{
+text-align: center;
+}
+.footer .image{
+padding-top: 120px;
+}
